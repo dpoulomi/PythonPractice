@@ -1,0 +1,6 @@
+color = raw_input("Mention any color:")
+name = raw_input("Mention any name:")
+celebrity_name = raw_input("Mention a celebrity name:")
+print("Roses are " + color)
+print(name + "are blue")
+print("I love" + celebrity_name)
