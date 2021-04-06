@@ -30,6 +30,6 @@ def findIfEqualPartitionPresent(arr, length):
 
 
 if __name__ == '__main__':
-    # arr = [1, 5, 5, 11]
-    arr = [3, 1, 1, 2, 2, 1]
+    arr = [2, 11, 4, 5]
+    # arr = [3, 1, 1, 2, 2, 1]
     print(findIfEqualPartitionPresent(arr , len(arr)))
